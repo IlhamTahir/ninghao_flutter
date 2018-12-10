@@ -5,10 +5,14 @@ class LayoutDemo extends StatelessWidget
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return Column(
-      children: <Widget>[
-        IconBadge(Icons.pool)
-      ],
+    return Container(
+      child: Column(
+        children: <Widget>[
+          IconBadge(Icons.pool),
+          IconBadge(Icons.beach_access),
+          IconBadge(Icons.airplanemode_active)
+        ],
+      ),
     );
   }
 }
