@@ -33,10 +33,10 @@
       <file leaf-file-name="laytout_demo.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/demo/laytout_demo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            <state relative-caret-position="360">
+              <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               <folding>
-                <element signature="e#552#890#0" expanded="false" />
+                <element signature="e#1183#1521#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -334,10 +334,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/demo/laytout_demo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        <state relative-caret-position="360">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding>
-            <element signature="e#552#890#0" expanded="false" />
+            <element signature="e#1183#1521#0" expanded="false" />
           </folding>
         </state>
       </provider>
